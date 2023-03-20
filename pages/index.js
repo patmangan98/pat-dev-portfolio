@@ -55,7 +55,7 @@ export default function Home() {
               Software Engineer
             </h3>
             <p className="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 max-w-xl mx-auto md:text-xl">
-              Budding software engineer born and raised in Washington DC, who is a determined and curious learner, and an absolute 3d printing fanatic. As public relations and graphic design professional, I relied on my research, strategy, and a keen eye for detail to solve problems. I will use my same fanaticism for 3d printing and pour it into programming your web application! I have a unique ability to visualize and sort data into visually appealing and simple inputs for users. My experience includes bringing a brand to life through intuitive design, and exceeding growth expectations. Check my links down below and let's get cracking!
+              Budding software engineer born and raised in Washington DC, who is a determined and curious learner, and an absolute 3d printing fanatic. As public relations and graphic design professional, I relied on my research, strategy, and a keen eye for detail to solve problems. I will use my same fanaticism for 3d printing and pour it into programming your web application! I have a unique ability to visualize and sort data into visually appealing and simple inputs for users. My experience includes bringing a brand to life through intuitive design, and exceeding growth expectations. Check my links down below and get started!
             </p>
             <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600 dark:text-gray-400">
               <AiFillLinkedin />
@@ -82,12 +82,13 @@ export default function Home() {
                   className="rounded-lg object-cover"
                   width={"100%"}
                   height={"100%"}
+                  alt={"bark board"}
                   layout="responsive"
                   src={BarkBoard}
                 />
               ) : (
                 <>
-                <p className ="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 max-w-xl mx-auto md:text-xl">BarkBoard is the ultimate community forum for pet owners who want to connect, share experiences, and seek advice on pet ownership. Whether you're a seasoned pet owner or new to the world of pets, BarkBoard offers a supportive and informative platform where pet owners can come together to share their love for pets. With Bark Board, you can ask for advice, share tips, and learn from other pet owners who have been through similar experiences. So, whether you have a question about pet nutrition, training, or behavior, BarkBoard has got you covered. Join the BarkBoard community today and become a part of a fun and supportive network of pet lovers!</p>
+                <p className ="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 max-w-xl mx-auto md:text-xl"> BarkBoard is the ultimate community forum for pet owners who want to connect, share experiences, and seek advice on pet ownership. Whether you are a seasoned pet owner or new to the world of pets, BarkBoard offers a supportive and informative platform where pet owners can come together to share their love for pets. With Bark Board, you can ask for advice, share tips, and learn from other pet owners who have been through similar experiences. So, whether you have a question about pet nutrition, training, or behavior, BarkBoard has got you covered. Join the BarkBoard community today and become a part of a fun and supportive network of pet lovers!</p>
                 <a
                 className="flex justify-center items-center bg-gradient-to-r from-cyan-500 text- to-teal-500 text-white px-4 py-2 border-none rounded-md text-center"
                 href="https://bark-board-client.onrender.com/"
@@ -105,6 +106,7 @@ export default function Home() {
                   className="rounded-lg object-cover"
                   width={"100%"}
                   height={"100%"}
+                  alt={"jobber 3d"}
                   layout="responsive"
                   src={Jobbr3d}
                 />
@@ -128,12 +130,13 @@ export default function Home() {
                   className="rounded-lg object-cover"
                   width={"100%"}
                   height={"100%"}
+                  alt={"SpaceMan"}
                   layout="responsive"
                   src={SpaceMan}
                 />
               ) : (
                 <>
-                <p className="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 max-w-xl mx-auto md:text-xl">Spaceman is an exciting word-guessing game that challenges players to guess a mystery word by filling up a rocket with fuel. It's a fun and engaging way to improve your vocabulary and language skills. Suitable for players of all ages and backgrounds, Spaceman offers a modern take on the classic word-guessing game. So, come join the space mission and see how far you can go in Spaceman!</p>
+                <p className="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 max-w-xl mx-auto md:text-xl">Spaceman is an exciting word-guessing game that challenges players to guess a mystery word by filling up a rocket with fuel. It is a fun and engaging way to improve your vocabulary and language skills. Suitable for players of all ages and backgrounds, Spaceman offers a modern take on the classic word-guessing game. So, come join the space mission and see how far you can go in Spaceman!</p>
                 <a
                 className="flex justify-center items-center bg-gradient-to-r from-cyan-500 text- to-teal-500 text-white px-4 py-2 border-none rounded-md text-center"
                 href="https://patmangan98.github.io/Project1/"
