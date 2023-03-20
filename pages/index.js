@@ -62,7 +62,7 @@ export default function Home() {
               <AiFillGithub />
             </div>
             <div className="mx-auto bg-gradient-to-b from-teal-500 rounded-full w-80 h-80 relative overflow-hidden mt-20 md:h-96 md:w-96">
-              <Image src={deved} layout="fill" objectFit="cover" />
+              <Image src={deved} layout="fill" objectFit="cover" alt="profile photo" />
             </div>
           </div>
         </section>
@@ -157,6 +157,7 @@ export default function Home() {
                   width={"100%"}
                   height={"100%"}
                   layout="responsive"
+                  alt="photo of app"
                   title="sample text"
                   src={Ribbit}
                 />
