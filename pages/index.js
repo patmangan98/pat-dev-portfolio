@@ -90,7 +90,7 @@ export default function Home() {
                 <p className ="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 max-w-xl mx-auto md:text-xl">BarkBoard is the ultimate community forum for pet owners who want to connect, share experiences, and seek advice on pet ownership. Whether you're a seasoned pet owner or new to the world of pets, BarkBoard offers a supportive and informative platform where pet owners can come together to share their love for pets. With Bark Board, you can ask for advice, share tips, and learn from other pet owners who have been through similar experiences. So, whether you have a question about pet nutrition, training, or behavior, BarkBoard has got you covered. Join the BarkBoard community today and become a part of a fun and supportive network of pet lovers!</p>
                 <a
                 className="flex justify-center items-center bg-gradient-to-r from-cyan-500 text- to-teal-500 text-white px-4 py-2 border-none rounded-md text-center"
-                href="https://npm-install-andand-npm-run-build-mnbj.onrender.com/"
+                href="https://bark-board-client.onrender.com/"
               >
                 Check it Out!
               </a>
@@ -136,7 +136,7 @@ export default function Home() {
                 <p className="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 max-w-xl mx-auto md:text-xl">Spaceman is an exciting word-guessing game that challenges players to guess a mystery word by filling up a rocket with fuel. It's a fun and engaging way to improve your vocabulary and language skills. Suitable for players of all ages and backgrounds, Spaceman offers a modern take on the classic word-guessing game. So, come join the space mission and see how far you can go in Spaceman!</p>
                 <a
                 className="flex justify-center items-center bg-gradient-to-r from-cyan-500 text- to-teal-500 text-white px-4 py-2 border-none rounded-md text-center"
-                href="https://npm-install-andand-npm-run-build-mnbj.onrender.com/"
+                href="https://patmangan98.github.io/Project1/"
               >
                 Check it Out!
               </a>
