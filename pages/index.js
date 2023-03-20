@@ -162,8 +162,8 @@ export default function Home() {
                   src={Ribbit}
                 />
               ) : (
-                <>
-                <p className="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 max-w-xl mx-auto md:text-xl">Ribbit is the perfect app for hobbyists who want to connect and share their passion with like-minded enthusiasts. Ribbit offers a platform where users can start threads on their favorite topics and connect with other hobbyists who share the same interests. With Ribbit, you can post within threads, comment on other users' posts, and engage in meaningful discussions with other enthusiasts. Whether you're interested in crafting, cooking, or collecting, Ribbit has a wide range of topics to choose from. So, join the Ribbit community today and start sharing your passion with the world!</p>
+                <div> 
+                <p className="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 max-w-xl mx-auto md:text-xl">Ribbit is the perfect app for hobbyists who want to connect and share their passion with like-minded enthusiasts. Ribbit offers a platform where users can start threads on their favorite topics and connect with other hobbyists who share the same interests. With Ribbit, you can post within threads, comment on other users posts, and engage in meaningful discussions with other enthusiasts. Whether you're interested in crafting, cooking, or collecting, Ribbit has a wide range of topics to choose from. So, join the Ribbit community today and start sharing your passion with the world</p>
 
                 <a
                 className="flex justify-center items-center bg-gradient-to-r from-cyan-500 text- to-teal-500 text-white px-4 py-2 border-none rounded-md text-center"
@@ -171,7 +171,7 @@ export default function Home() {
               >
                 Check it Out!
               </a>
-              </>
+              </div>
               )}
             </div>
           </div>
