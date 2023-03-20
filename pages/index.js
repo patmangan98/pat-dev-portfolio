@@ -58,8 +58,12 @@ export default function Home() {
               Budding software engineer born and raised in Washington DC, who is a determined and curious learner, and an absolute 3d printing fanatic. As public relations and graphic design professional, I relied on my research, strategy, and a keen eye for detail to solve problems. I will use my same fanaticism for 3d printing and pour it into programming your web application! I have a unique ability to visualize and sort data into visually appealing and simple inputs for users. My experience includes bringing a brand to life through intuitive design, and exceeding growth expectations. Check my links down below and get started!
             </p>
             <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600 dark:text-gray-400">
+              <a href="https://www.linkedin.com/in/patrickmacmangan/">
               <AiFillLinkedin />
+              </a>
+              <a href="https://github.com/patmangan98">
               <AiFillGithub />
+              </a>
             </div>
             <div className="mx-auto bg-gradient-to-b from-teal-500 rounded-full w-80 h-80 relative overflow-hidden mt-20 md:h-96 md:w-96">
               <Image src={deved} layout="fill" objectFit="cover" alt="profile photo" />
