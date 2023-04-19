@@ -119,7 +119,7 @@ export default function Home() {
                 <p className="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 max-w-xl mx-auto md:text-xl">Jobbr3d is the ultimate app for 3D printing enthusiasts who want to turn their hobby into a small business. With Jobbr3d, you can keep track of your customers and assign print jobs to them, all in one convenient place. As you grow your business, the app will evolve with you, including features like inventory management for materials and other consumables, making it even easier to manage your operation. Additionally, Jobbr3d  will incorporate Octoprint, which will allow you to remotely manage your printer and monitor print progress, making your 3D printing process even more streamlined.</p>
                 <a
                 className="flex justify-center items-center bg-gradient-to-r from-cyan-500 text- to-teal-500 text-white px-4 py-2 border-none rounded-md text-center"
-                href="https://npm-install-andand-npm-run-build-mnbj.onrender.com/"
+                href="https://jobbr3d-client.onrender.com/"
               >
                 Check it Out!
               </a>
@@ -183,7 +183,7 @@ export default function Home() {
             <section>
               <div className="py-10 text-center">
                 <h3 className ="text-xl py-12 text-teal-600 font-medium dark:text-teal-400 md:text-6xl">Resume</h3>
-                <iframe  width ="100%" height="500px"src="/images/NewResume2023.pdf"/>
+                <iframe  width ="100%" height="500px"src="/images/Patrick-mangan-dev.pdf"/>
               </div>
             </section>
       </main>
